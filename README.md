@@ -1,2 +1,2 @@
-# Demo1
-Demonstration demo created as part of Courseera course
+Sample Pre trained models written on tflite.
+The models include EffecientDet-Lite,
