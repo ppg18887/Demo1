@@ -1,2 +1,1 @@
-Sample Pre trained models written on tflite.
-The models include EffecientDet-Lite,
+Experimental codes with autokeras
